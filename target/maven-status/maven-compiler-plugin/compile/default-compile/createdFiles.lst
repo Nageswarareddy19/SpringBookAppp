@@ -1,0 +1,4 @@
+com\nt\model\BookDetails.class
+com\nt\controller\BookController.class
+com\nt\ServletInitializer.class
+com\nt\SpringBootBookAppApplication.class
